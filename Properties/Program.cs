@@ -13,7 +13,7 @@ namespace Properties
         //private string _email;
         //private int _age 
         public string City { get; set; }
-        public string Email { set; }
+        public string Email { get;  set; }
         public int Age { get; }
 
         public int Id  // 1

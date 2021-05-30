@@ -23,16 +23,16 @@ namespace InheritanceProblemWithMultipleInheritance
             Console.WriteLine("C implementation");
         }
     }
-    class D : B, C
-    {
+    //class D : B, C
+    //{
 
-    }
+    //}
     class Program
     {
         static void Main(string[] args)
         {
-            D d = new D();
-            d.Print();
+           // D d = new D();
+            //d.Print();
 
             Console.WriteLine("The Diamond problem");
             // problem: Which version of Print() method to use??

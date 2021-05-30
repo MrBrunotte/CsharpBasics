@@ -28,7 +28,7 @@ namespace AbstractClass2
 
             Customer C = new Program();
             C.Print();
-            C.IPrint();
+            //C.IPrint();
         }
     }
 }
