@@ -8,9 +8,9 @@ namespace PartialMethod
 {
     public partial class SamplePartialClass
     {
-        partial void SamplePartialMethod()
-        {
-            Console.WriteLine("SamplepartialMethod Invoked");
-        }
+        //partial void SamplePartialMethod()
+        //{
+        //    Console.WriteLine("SamplepartialMethod Invoked");
+        //}
     }
 }

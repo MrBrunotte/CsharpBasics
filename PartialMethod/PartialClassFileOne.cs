@@ -16,7 +16,7 @@ namespace PartialMethod
         public void PublicMethod()
         {
             Console.WriteLine("Public method invoked");
-            SamplePartialMethod();
+            //SamplePartialMethod();
             Console.ReadKey();
         }
     }
