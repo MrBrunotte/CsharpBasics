@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PublicAccessorsInternal ProtectedClassLibrary\PublicAccessorsInternal ProtectedClassLibrary.csproj" />
+    <ProjectReference Include="..\PublicAccessorsInternal ProtectedClassLibrary\51_PublicAccessorsInternal ProtectedClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
